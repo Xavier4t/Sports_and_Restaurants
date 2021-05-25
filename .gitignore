@@ -133,3 +133,6 @@ json_files/
 
 # stadiums folder
 stadiums_data/
+
+# backup folder
+NB_backup/
