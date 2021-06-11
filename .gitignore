@@ -130,6 +130,7 @@ dmypy.json
 
 # json files folder
 json_files/
+Output/
 
 # stadiums folder
 stadiums_data/
