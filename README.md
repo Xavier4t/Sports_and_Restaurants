@@ -59,4 +59,5 @@ A typical **JSON** file contains the following information:
 
 
 **¹** The data is limited to Yelp results (so restaurants not registered on Yelp would not appear in the dataset).
+
 **²** Yelp Fusion API only returns up to a maximum of 1000 businesses, although it returns the value of the total amount of restaurants found.  The total amount returned has been renamed to "absolute total" whilst the key "total" indicates the number of businesses included in the JSON file (up to  1000)
