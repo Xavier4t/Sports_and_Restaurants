@@ -49,7 +49,7 @@ A typical **JSON** file contains the following information:
 	    distance: business/restaurant distance from the Stadium/Arena coordinates.
 
 	absolute total: the total number of businesses (restaurants, food places, etc.) found inside the search radius  
-	total: the total number of businesses in the JSON file, up to 1000**²**.
+	total²: the total number of businesses in the JSON file, up to 1000.
 
 
 
