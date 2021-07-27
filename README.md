@@ -11,7 +11,6 @@ Two datasets are generated:
 1.  The **General**  dataset, no category has been specified, thus resulting in all kind of restaurants in the 3000 meters radius around the stadiums.
 2.  The  **Category** dataset , results for the following categories only: sports bars, pubs, wine bars and cocktail bars.
 
-The dataset has been published in Kaggle here: [Sports and Restaurants](https://www.kaggle.com/xavier4t/sports-and-restaurants)
 
 The data has been obtained using the Yelp Fusion API, requesting the information of restaurants in a 3000 meters (1.86 miles) radius centered in the teams stadiums/arenas.   
 
@@ -55,7 +54,7 @@ A typical **JSON** file contains the following information:
 
 
 
-
+The dataset has been published in Kaggle here: [Sports and Restaurants](https://www.kaggle.com/xavier4t/sports-and-restaurants).
 
 
 **¹** The data is limited to Yelp results (so restaurants not registered on Yelp would not appear in the dataset).
